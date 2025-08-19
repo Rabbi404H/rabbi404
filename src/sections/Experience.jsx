@@ -97,7 +97,7 @@ const Experience = () => {
       <div className="w-full h-full md:px-20 px-5">
         <TitleHeader
           title="Professional Work Experience"
-          sub="💼 My Career Overview"
+          sub="I am not affiliated with the companies shown. The logos and cards are used solely for visual design purposes to enhance the look of this section."
         />
         <div className="mt-32 relative">
           <div className="relative z-50 xl:space-y-32 space-y-10">
