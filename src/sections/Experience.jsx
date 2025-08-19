@@ -94,11 +94,15 @@ const Experience = () => {
       id="experience"
       className="flex-center md:mt-40 mt-20 section-padding xl:px-0"
     >
-      <div className="w-full h-full md:px-20 px-5">
+      <div
+        className="w-full h-full md:px-20 px-5"
+      >
+  
         <TitleHeader
           title="Professional Work Experience"
           sub="I am not affiliated with the companies shown. The logos and cards are used solely for visual design purposes to enhance the look of this section."
         />
+        
         <div className="mt-32 relative">
           <div className="relative z-50 xl:space-y-32 space-y-10">
             {expCards.map((card) => (
