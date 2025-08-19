@@ -106,10 +106,10 @@ const techStackImgs = [
     name: "Next.js Developer",
     imgPath: "/images/logos/nextjs.png",
   },
-  // {
-  //   name: "Project Manager",
-  //   imgPath: "/images/logos/git.svg",
-  // },
+  {
+    name: "Project Manager",
+    imgPath: "/images/logos/git.svg",
+  },
 ];
 
 

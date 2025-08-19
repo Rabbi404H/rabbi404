@@ -23,7 +23,7 @@ const Testimonials = () => {
                   <p className="text-white-50">{testimonial.mentions}</p>
                 </div>
               </div>
-            </GlowCard>
+              </GlowCard>
           ))}
         </div>
       </div>
