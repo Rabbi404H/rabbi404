@@ -100,7 +100,7 @@ const Experience = () => {
   
         <TitleHeader
           title="Professional Work Experience"
-          sub="I am not affiliated with the companies shown. The logos and cards are used solely for visual design purposes to enhance the look of this section."
+          sub="I am not affiliated with these companies; their logos are used for design purposes only."
         />
         
         <div className="mt-32 relative">
