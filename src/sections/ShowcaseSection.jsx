@@ -73,7 +73,7 @@ const AppShowcase = () => {
           <div className="project-list-wrapper overflow-hidden">
             <div className="project" ref={libraryRef}>
               <div>
-  <a href="https://your-library-app-link.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://3d-appshowcase.vercel.app/" target="_blank" rel="noopener noreferrer">
     <video 
       src="/videos/2videos.mp4" 
       autoPlay 
@@ -90,7 +90,7 @@ const AppShowcase = () => {
 
             <div className="project" ref={ycDirectoryRef}>
               <div>
-  <a href="https://your-yc-directory-link.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://k72-sigma.vercel.app/" target="_blank" rel="noopener noreferrer">
     <video 
       src="/videos/3videos.mp4" 
       autoPlay 
