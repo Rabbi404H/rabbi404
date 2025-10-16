@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { quickReplies } from '../data/botData';
 
 const QuickReplies = ({ onQuickReply, disabled }) => {
